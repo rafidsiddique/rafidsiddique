@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafidsiddique
 - 👀 I’m interested in new tech
-- 🌱 I’m currently learning Tailwind CSS
+- 🌱 I’m currently working on Reactjs
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me 
 
