@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafidsiddique
 - 👀 I’m interested in new tech
-- 🌱 I’m currently working on Reactjs
+- 🌱 I’m currently enjoying the react.js world
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me 
 
